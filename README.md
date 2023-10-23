@@ -66,3 +66,5 @@ Model Translated English: They 're the most important of the world in the world 
 ### Performance
 
 ![Results](./results_avg_bleu_scores_dataset_no2_epochs_1_to_10.png)
+
+- The average BLEU score is measured by taking the average of the accuracy calculated using binary cross-entropy loss between the human-translated and model-translated text.
