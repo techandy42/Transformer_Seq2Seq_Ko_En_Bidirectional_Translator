@@ -21,20 +21,20 @@ Actual Korean Translation: 갑사합니다.
 Model Translated Korean: 감사합니다 . 
 ```
 
-Example 2: (line 76)
-```
-Original English: People have wanted to look inside the human mind, the human brain, for thousands of years. 
-
-Actual Korean Translation: 사람들은 수 천 년동안 인간의 뇌와 마음 속을 읽고 싶어했습니다.
-Model Translated Korean: 사람들은 인간의 뇌를 가지고 있는 것을 보고 , 그리고 그 뇌는 그 뇌는 그 안에 있습니다 .
-```
-
-Example 3: (line 1920)
+Example 2: (line 1920)
 ```
 Original English: You may just know more about everything than anyone. 
 
 Actual Korean Translation: 정말 모든 것에 대해 모든 사람들 보다...
 Model Translated Korean: 여러분은 모두 더 많은 것을 알고 있습니다 . 
+```
+
+Example 3: (line 76)
+```
+Original English: People have wanted to look inside the human mind, the human brain, for thousands of years. 
+
+Actual Korean Translation: 사람들은 수 천 년동안 인간의 뇌와 마음 속을 읽고 싶어했습니다.
+Model Translated Korean: 사람들은 인간의 뇌를 가지고 있는 것을 보고 , 그리고 그 뇌는 그 뇌는 그 안에 있습니다 .
 ```
 
 ### Korean-to-English
