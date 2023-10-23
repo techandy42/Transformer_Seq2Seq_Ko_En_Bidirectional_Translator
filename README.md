@@ -7,11 +7,16 @@
 - Trained on [Kaggle Ted-Talk Translation Dataset](https://www.kaggle.com/datasets/msarmi9/englishkorean-multitarget-ted-talks-task-mttt).
 - The following results show the model trained for 10 epochs (4~5 hours of training on A100 GPU; train for longer epochs to get better performance).
 
-### Translation Examples
-
 - Raw translation outputs are stored in the `translated_dataset_no2_epochs_1_to_10.zip` file.
 
-#### English-to-Korean
+### File Structure
+
+- `korean_english_bydirectional_translator_project_v5.ipynb` contains code to train the translator model and test the model on the test dataset.
+- `test_translation_module.ipynb` contains code to calculate the average BLEU score for each epoch's output with the test dataset.
+- `kr_en_translation_ted_talk_dataset.zip` contains training and test datasets.
+- `translated_dataset_no2_epochs_1_to_10.zip` contains generated output for each line of the test dataset for both Korean-to-English and English-to-Korean translations by the model for each epoch.
+
+### English-to-Korean Translation Examples
 
 > Example 1: (line 361)
 ```
@@ -37,7 +42,7 @@ Actual Korean Translation: 사람들은 수 천 년동안 인간의 뇌와 마�
 Model Translated Korean: 사람들은 인간의 뇌를 가지고 있는 것을 보고 , 그리고 그 뇌는 그 뇌는 그 안에 있습니다 .
 ```
 
-#### Korean-to-English
+### Korean-to-English Translation Examples
 
 > Example 1: (line 1981)
 ```
